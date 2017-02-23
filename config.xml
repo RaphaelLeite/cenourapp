@@ -8,4 +8,7 @@
   <author email="raphaelleie.oliveira@gmail.com">RLeite</author>
   <icon src="icon.png" />
   <gap:splash src="splash.png" />
+  <preferences name="orientation" value="portrait" />
+  <preferences name="fullscreen" value="true" />
+
 </widget>
