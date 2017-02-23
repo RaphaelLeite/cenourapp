@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://w3.org/ns/widgets"
+        xmlns:gap="http://phonegap.com/ns/1.0"
+        version="1.0.0"
+        id="org.rleite.cnourapp">
+  <name>CnourApp</name>
+  <description>App do café Cenoura.</description>
+  <author email="raphaelleie.oliveira@gmail.com">RLeite</author>
+</widget>
