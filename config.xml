@@ -6,4 +6,6 @@
   <name>CnourApp</name>
   <description>App do café Cenoura.</description>
   <author email="raphaelleie.oliveira@gmail.com">RLeite</author>
+  <icon src="icon.png" />
+  <gap:splash src="splash.png" />
 </widget>
